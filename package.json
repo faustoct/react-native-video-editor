@@ -11,8 +11,5 @@
   "keywords": [
     "react-native"
   ],
-  "license": "",
-  "peerDependencies": {
-    "react-native": "^0.29.0"
-  }
+  "license": ""
 }
